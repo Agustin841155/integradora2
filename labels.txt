@@ -1,0 +1,2 @@
+0 Basura Orgánica
+1 Basura Inorgánica
